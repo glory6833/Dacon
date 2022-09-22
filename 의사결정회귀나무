@@ -1,0 +1,3 @@
+import pandas as pd #라이브러리_불러오기
+train = pd.read_csv('data/train.csv') #'data 폴더에있는 train.csv 파일 불러오는 코드 작성'
+test = pd.read_csv('data/test.csv') #'data 폴더에있는 test.csv 파일 불러오는 코드 작성'
